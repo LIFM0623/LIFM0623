@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 -->
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIFM0623&show_icons=true)
 
-## Technology stack
+## 💡Technology stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,react,js,ts,webpack,nodejs,nestjs,md,vite" />
   </a>
 </p>
 
-## Life Maxim
+## 💬Motto
 **🌟春光大好，不必执着于冬🌟**
